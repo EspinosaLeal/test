@@ -1,2 +1,3 @@
 # test
-just a test
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/espinosaleal/test)
